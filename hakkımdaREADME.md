@@ -1,0 +1,1 @@
+2024 yılında React native ile tanışmamla başlayan mobil geliştirici yolculuğum kotlin ve flutter ile dahada hız kazandı 3 dili de inceledikten sonra cross dilin rahatlığını ve platforma ürün çıkarma hızını göz önüne alınca cross platformda yazmaya karar verdim
